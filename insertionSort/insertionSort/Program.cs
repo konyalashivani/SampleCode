@@ -1,4 +1,5 @@
-﻿using System;namespace insertionSort
+﻿using System;
+namespace insertionSort
 {
     class Program
     {
